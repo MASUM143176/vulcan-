@@ -1,0 +1,7 @@
+{
+  "name": "VULCAN: Friendly Roast Master",
+  "description": "A high-performance, witty AI designed for friendly roasts, quick comebacks, and humorous critiques.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
